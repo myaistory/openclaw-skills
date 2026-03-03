@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "maxRetries": 5,
+  "baseDelayMs": 1000,
+  "maxDelayMs": 60000,
+  "exponentialBase": 2,
+  "logHistory": true
+}
